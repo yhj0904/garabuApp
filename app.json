@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "garabuApp",
-    "slug": "garabuApp",
+    "slug": "garabuapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5e1a0f04-3fe7-4157-8fe2-d62ad6ab55f3"
+      }
+    },
+    "owner": "popori99"
   }
 }
