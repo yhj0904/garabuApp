@@ -6,7 +6,7 @@ import Tabs from './src/navigators/Tabs';
 export default function App() {
   return (
     <NavigationContainer>
-      <Tabs />
+      <Tabs /> 
     </NavigationContainer>
   );
 }
