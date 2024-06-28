@@ -5,3 +5,20 @@ create expo react native
 to
 
 create app Login API ...
+
+240628
+to 
+Login screen OAuth
+join screen
+create screen
+viewer(def component : Read delete update) screen
+income 
+expence
+month
+weeks
+days
+setting screen
+contribute
+multiple
+
+mypage 
